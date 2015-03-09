@@ -6,6 +6,7 @@ describe 'My Fantastic Model' do
   end
 
   it 'should always return true (part 2) :)' do
+    # TODO: I think this is not necessary :/
     expect(true).to be_truthy
   end
 end
